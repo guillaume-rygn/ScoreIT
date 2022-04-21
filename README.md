@@ -9,6 +9,22 @@ ScoreIt <br>
 <h4 align="center">Êtes vous à la hauteur?</h4>
 <br>
 
+## Mon rôle sur le projet
+
+- Création de la BDD sous PostgreSQL
+- Définition des Models, relations et validates correspondant aux tables
+- Mise en place du parcours client Back-end
+- Définition des Controllers
+- Mise en place des questionnaires avec un systeme de conservation des réponses en cas d'oubli d'une question au moment du submit
+- Mise en place d'un systeme d'autocalculation de score en fonction des réponses
+- Implémentation des librairies JS Toast.js et Graph.js
+- Création de certaines Views (dashboard principal, systeme de recherche de certificat)
+- Mise en place d'AJAX pour améliorer l'expérience utilisateur
+- Mise en place d'un systeme de génération automatique de diplome sous format PDF
+- Mise en place d'un systeme de pass à acheter pour éviter des custom validates basé sur le temps défini les models
+
+Lien vers le repository original pour voir les pull request et le travail en équipe 👉 [ScoreIt](https://github.com/Bastien-Arlot/ScoreIT)
+
 ## Objectif
 
 L’objectif de ScoreIT est de proposer un outil de crédibilisation des projets de startups dont l’optique serait de lever des fonds auprès d’investisseurs ou d’établissements financiers. Nous proposons une plateforme entièrement en ligne permettant aux fondateurs de startups de pouvoir obtenir une notation sur leur projet permettant ainsi de donner un score de crédibilité à ce dernier dans le but de rassurer les futurs potentiels investisseurs.
